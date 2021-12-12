@@ -1,4 +1,4 @@
-block_size,cache_size,set_blocks,miss,hit,hit_ratio
-2,64,2_way,84,258,75.5
-2,64,4_way,82,260,76.1
-2,64,8_way,82,260,76.1
+block_size,cache_size,set_blocks_way,miss,hit,hit_ratio
+2,64,2,84,258,75.5
+2,64,4,82,260,76.1
+2,64,8,82,260,76.1
